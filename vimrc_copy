@@ -1,0 +1,10 @@
+set autoread
+set mouse=a
+set number
+set encoding=utf8
+set scrolloff=999
+set showmatch
+set nobackup noswapfile nowritebackup
+set undofile undodir=~/.vim/undo undolevels=9999
+set ttyfast
+set lazyredraw
